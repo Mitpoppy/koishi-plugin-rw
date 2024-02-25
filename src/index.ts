@@ -8,7 +8,7 @@ export const name = 'rw'
 export function apply(ctx: Context) {
   ctx.on('message', (session) => {
     const content = session.content
-    const regex = /[rR]\d+/g
+    const regex = /[rRHh]\d+/g
     const matches = content.match(regex)
     if (matches) {
       for (const match of matches) {

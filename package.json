@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-rw",
   "description": "铁锈战争RCN国服房间信息查询",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "contributors": [
     "Mitpoppy <2974560682@qq.com>"
   ],
