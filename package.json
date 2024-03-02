@@ -24,5 +24,8 @@
   ],
   "peerDependencies": {
     "koishi": "^4.17.0-beta.4"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
   }
 }
